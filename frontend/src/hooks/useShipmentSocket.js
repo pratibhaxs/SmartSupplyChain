@@ -1,6 +1,6 @@
 import { useState, useEffect, useRef, useCallback } from 'react'
 
-const WS_URL = const WS_URL = 'wss://smartsupplychain.onrender.com/ws/shipments';
+const WS_URL ='wss://smartsupplychain.onrender.com/ws/shipments';
 const RECONNECT_DELAY = 3000
 
 /**
